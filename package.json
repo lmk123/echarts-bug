@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "canvas": "^1.6.9",
+    "echarts": "^4.0.4"
+  }
+}
